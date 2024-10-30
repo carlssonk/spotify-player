@@ -2,8 +2,6 @@
 
 ![App Screenshot](https://i.ibb.co/P5N8ZvF/first-image.png)
 
-#### Video Demo: https://youtu.be/5L9FiSDhfAA
-
 ## Description
 
 Spotify Player is a chrome extension used for controlling your spotify music. This mini-controller can be used with the [Spotify web player](https://open.spotify.com/), Spotify desktop app as well as Spotify on your mobile. As long as you have authorized your Spotify account with this extension and have the Spotify app open in the background.
